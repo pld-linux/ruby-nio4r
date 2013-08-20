@@ -1,3 +1,5 @@
+# TODO
+# - use system libev (0.5.0 bundles libev 4.15)
 #
 # Conditional build:
 %bcond_with	tests		# build without tests
