@@ -8,7 +8,7 @@
 Summary:	NIO provides a high performance selector API for monitoring IO objects
 Name:		ruby-%{pkgname}
 Version:	0.5.0
-Release:	5
+Release:	6
 License:	MIT
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
