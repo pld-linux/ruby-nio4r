@@ -7,12 +7,12 @@
 %define	pkgname	nio4r
 Summary:	NIO provides a high performance selector API for monitoring IO objects
 Name:		ruby-%{pkgname}
-Version:	0.5.0
-Release:	7
+Version:	2.1.0
+Release:	1
 License:	MIT
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
-# Source0-md5:	c00295b39521d713d0eddb0925f4147d
+# Source0-md5:	13617a7f769d3fe977b7b9d67f8c61a3
 URL:		https://github.com/celluloid/nio4r
 BuildRequires:	rpm-rubyprov
 BuildRequires:	rpmbuild(macros) >= 1.665
